@@ -40,6 +40,8 @@ After training, the model evaluates its performance and prints the accuracy (91%
 NumNet/
 ├── Training_Notebook.ipynb  # Main training Notebook
 ├── NumNet.keras             # Exported Model
+├── digits/                  # where the test digits i made are stored
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
